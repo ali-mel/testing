@@ -5,4 +5,5 @@
 5) Severity
 6) Priority
 7) Status
-8) Autor 
+8) Autor
+9) Atechment
